@@ -39,5 +39,5 @@ exports.view = function(req, res){
         'id': 'project8'
       }
     ]  
-});
+  });
 };
